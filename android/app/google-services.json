@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626407070234",
+    "project_id": "myfinancetraker",
+    "storage_bucket": "myfinancetraker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626407070234:android:2eab2fe86ff2f6fc12cfa3",
+        "android_client_info": {
+          "package_name": "com.example.myfinancetraker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0LVmKpbDRRMMZqgVj8LC3AHbRokltiGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
